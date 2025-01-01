@@ -1,0 +1,17 @@
+{
+  "domain": "aruba_instant_on",
+  "name": "Aruba Instant On",
+  "codeowners": [
+    "@maxmouchet"
+  ],
+  "documentation": "https://github.com/maxmouchet/aruba-instant-on-home-assistant",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/maxmouchet/aruba-instant-on-home-assistant/issues",
+  "loggers": [
+    "ion_client"
+  ],
+  "requirements": [
+    "ion-client==1.1.0"
+  ],
+  "version": "0.1.0"
+}

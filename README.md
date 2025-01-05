@@ -9,7 +9,3 @@ device_tracker:
     password: ...
     site_id: ...
 ```
-
-- https://github.com/home-assistant/brands/pull/5798
-- https://github.com/home-assistant/core/pull/124584
-- https://github.com/home-assistant/home-assistant.io/pull/34444
